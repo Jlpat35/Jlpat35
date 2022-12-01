@@ -4,3 +4,4 @@
 ---
 
 ### :Student_Cybersecurity: About Me :
+https://img.shields.io/badge/LinkedIn-blue
